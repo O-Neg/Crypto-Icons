@@ -3,4 +3,4 @@ I packed several crypto mining icons into a single .dll file for use with mining
 
 Crypto.dll:
 
-<img src="http://www.minerbaby.com/images/icons.PNG" alt="crypto icons">
+<img src="http://www.minerbaby.com/images/moreicons.PNG" alt="crypto icons">
